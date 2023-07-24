@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1021883255891",
+    "project_id": "ulearning-app-19a09",
+    "storage_bucket": "ulearning-app-19a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021883255891:android:4c7b1078b25b423db1caa6",
+        "android_client_info": {
+          "package_name": "com.example.ulearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021883255891-v9bck4dtq0pgtsl1gf3ku4sbt7tp604q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ulearn",
+            "certificate_hash": "a80ff50f23b25039856bcb175f4f009317830a21"
+          }
+        },
+        {
+          "client_id": "1021883255891-7b1sadr7r99qtrp0399h7tpgfb2qvrqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokJXtOd2sl6faHkOPp7Xn0ddnCe7iYNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021883255891-7b1sadr7r99qtrp0399h7tpgfb2qvrqn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021883255891-mmsi0utgrhet1gb11ic5bst11t65sj6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ulearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
